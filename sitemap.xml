@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://buy-corevalin.vercel.app/</loc>
+    <loc>https://corevalin-offer.vercel.app/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://buy-corevalin.vercel.app/disclosure.html</loc>
+    <loc>https://corevalin-offer.vercel.app/disclosure.html</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://buy-corevalin.vercel.app/privacy.html</loc>
+    <loc>https://corevalin-offer.vercel.app/privacy.html</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://buy-corevalin.vercel.app/terms.html</loc>
+    <loc>https://corevalin-offer.vercel.app/terms.html</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
