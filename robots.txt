@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://buy-corevalin.vercel.app/sitemap.xml
+Sitemap: https://corevalin-offer.vercel.app/sitemap.xml
