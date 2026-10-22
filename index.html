@@ -9964,6 +9964,10 @@
 
     var redirecting = false;
 
+    window.addEventListener('pageshow', function () {
+        redirecting = false;
+    });
+
     function redirectToOffer(event) {
         if (redirecting) {
             return;
